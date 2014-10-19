@@ -1,0 +1,108 @@
+﻿生成启动时间为 2014/10/19 22:27:32。
+     1>项目“E:\RockSky\external\Box2D\proj.win32\Box2D.vcxproj”在节点 4 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include" /I../../ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /FR"Debug.win32\\" /Gd /TP /analyze- /errorReport:prompt ..\Collision\b2BroadPhase.cpp ..\Collision\b2CollideCircle.cpp ..\Collision\b2CollideEdge.cpp ..\Collision\b2CollidePolygon.cpp ..\Collision\b2Collision.cpp ..\Collision\b2Distance.cpp ..\Collision\b2DynamicTree.cpp ..\Collision\b2TimeOfImpact.cpp ..\Collision\Shapes\b2ChainShape.cpp ..\Collision\Shapes\b2CircleShape.cpp ..\Collision\Shapes\b2EdgeShape.cpp ..\Collision\Shapes\b2PolygonShape.cpp ..\Common\b2BlockAllocator.cpp ..\Common\b2Draw.cpp ..\Common\b2Math.cpp ..\Common\b2Settings.cpp ..\Common\b2StackAllocator.cpp ..\Common\b2Timer.cpp ..\Dynamics\b2Body.cpp ..\Dynamics\b2ContactManager.cpp ..\Dynamics\b2Fixture.cpp ..\Dynamics\b2Island.cpp ..\Dynamics\b2World.cpp ..\Dynamics\b2WorldCallbacks.cpp ..\Dynamics\Contacts\b2ChainAndCircleContact.cpp ..\Dynamics\Contacts\b2ChainAndPolygonContact.cpp ..\Dynamics\Contacts\b2CircleContact.cpp ..\Dynamics\Contacts\b2Contact.cpp ..\Dynamics\Contacts\b2ContactSolver.cpp ..\Dynamics\Contacts\b2EdgeAndCircleContact.cpp ..\Dynamics\Contacts\b2EdgeAndPolygonContact.cpp ..\Dynamics\Contacts\b2PolygonAndCircleContact.cpp ..\Dynamics\Contacts\b2PolygonContact.cpp ..\Dynamics\Joints\b2DistanceJoint.cpp ..\Dynamics\Joints\b2FrictionJoint.cpp ..\Dynamics\Joints\b2GearJoint.cpp ..\Dynamics\Joints\b2Joint.cpp ..\Dynamics\Joints\b2MouseJoint.cpp ..\Dynamics\Joints\b2PrismaticJoint.cpp ..\Dynamics\Joints\b2PulleyJoint.cpp ..\Dynamics\Joints\b2RevoluteJoint.cpp ..\Dynamics\Joints\b2RopeJoint.cpp ..\Dynamics\Joints\b2WeldJoint.cpp ..\Dynamics\Joints\b2WheelJoint.cpp ..\Rope\b2Rope.cpp
+         b2Rope.cpp
+         b2WheelJoint.cpp
+         b2WeldJoint.cpp
+         b2RopeJoint.cpp
+         b2RevoluteJoint.cpp
+         b2PulleyJoint.cpp
+         b2PrismaticJoint.cpp
+         b2MouseJoint.cpp
+         b2Joint.cpp
+         b2GearJoint.cpp
+         b2FrictionJoint.cpp
+         b2DistanceJoint.cpp
+         b2PolygonContact.cpp
+         b2PolygonAndCircleContact.cpp
+         b2EdgeAndPolygonContact.cpp
+         b2EdgeAndCircleContact.cpp
+         b2ContactSolver.cpp
+         b2Contact.cpp
+         b2CircleContact.cpp
+         b2ChainAndPolygonContact.cpp
+         正在生成代码...
+         正在编译...
+         b2ChainAndCircleContact.cpp
+         b2WorldCallbacks.cpp
+         b2World.cpp
+         b2Island.cpp
+         b2Fixture.cpp
+         b2ContactManager.cpp
+         b2Body.cpp
+         b2Timer.cpp
+         b2StackAllocator.cpp
+         b2Settings.cpp
+         b2Math.cpp
+         b2Draw.cpp
+         b2BlockAllocator.cpp
+         b2PolygonShape.cpp
+         b2EdgeShape.cpp
+         b2CircleShape.cpp
+         b2ChainShape.cpp
+         b2TimeOfImpact.cpp
+         b2DynamicTree.cpp
+         b2Distance.cpp
+         正在生成代码...
+         正在编译...
+         b2Collision.cpp
+         b2CollidePolygon.cpp
+         b2CollideEdge.cpp
+         b2CollideCircle.cpp
+         b2BroadPhase.cpp
+         正在生成代码...
+       Lib:
+         E:\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libBox2D.lib" /NOLOGO Debug.win32\b2BroadPhase.obj
+         Debug.win32\b2CollideCircle.obj
+         Debug.win32\b2CollideEdge.obj
+         Debug.win32\b2CollidePolygon.obj
+         Debug.win32\b2Collision.obj
+         Debug.win32\b2Distance.obj
+         Debug.win32\b2DynamicTree.obj
+         Debug.win32\b2TimeOfImpact.obj
+         Debug.win32\b2ChainShape.obj
+         Debug.win32\b2CircleShape.obj
+         Debug.win32\b2EdgeShape.obj
+         Debug.win32\b2PolygonShape.obj
+         Debug.win32\b2BlockAllocator.obj
+         Debug.win32\b2Draw.obj
+         Debug.win32\b2Math.obj
+         Debug.win32\b2Settings.obj
+         Debug.win32\b2StackAllocator.obj
+         Debug.win32\b2Timer.obj
+         Debug.win32\b2Body.obj
+         Debug.win32\b2ContactManager.obj
+         Debug.win32\b2Fixture.obj
+         Debug.win32\b2Island.obj
+         Debug.win32\b2World.obj
+         Debug.win32\b2WorldCallbacks.obj
+         Debug.win32\b2ChainAndCircleContact.obj
+         Debug.win32\b2ChainAndPolygonContact.obj
+         Debug.win32\b2CircleContact.obj
+         Debug.win32\b2Contact.obj
+         Debug.win32\b2ContactSolver.obj
+         Debug.win32\b2EdgeAndCircleContact.obj
+         Debug.win32\b2EdgeAndPolygonContact.obj
+         Debug.win32\b2PolygonAndCircleContact.obj
+         Debug.win32\b2PolygonContact.obj
+         Debug.win32\b2DistanceJoint.obj
+         Debug.win32\b2FrictionJoint.obj
+         Debug.win32\b2GearJoint.obj
+         Debug.win32\b2Joint.obj
+         Debug.win32\b2MouseJoint.obj
+         Debug.win32\b2PrismaticJoint.obj
+         Debug.win32\b2PulleyJoint.obj
+         Debug.win32\b2RevoluteJoint.obj
+         Debug.win32\b2RopeJoint.obj
+         Debug.win32\b2WeldJoint.obj
+         Debug.win32\b2WheelJoint.obj
+         Debug.win32\b2Rope.obj
+         Box2D.vcxproj -> E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libBox2D.lib
+       BscMake:
+         E:\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libBox2D.bsc" /n Debug.win32\b2BroadPhase.sbr Debug.win32\b2CollideCircle.sbr Debug.win32\b2CollideEdge.sbr Debug.win32\b2CollidePolygon.sbr Debug.win32\b2Collision.sbr Debug.win32\b2Distance.sbr Debug.win32\b2DynamicTree.sbr Debug.win32\b2TimeOfImpact.sbr Debug.win32\b2ChainShape.sbr Debug.win32\b2CircleShape.sbr Debug.win32\b2EdgeShape.sbr Debug.win32\b2PolygonShape.sbr Debug.win32\b2BlockAllocator.sbr Debug.win32\b2Draw.sbr Debug.win32\b2Math.sbr Debug.win32\b2Settings.sbr Debug.win32\b2StackAllocator.sbr Debug.win32\b2Timer.sbr Debug.win32\b2Body.sbr Debug.win32\b2ContactManager.sbr Debug.win32\b2Fixture.sbr Debug.win32\b2Island.sbr Debug.win32\b2World.sbr Debug.win32\b2WorldCallbacks.sbr Debug.win32\b2ChainAndCircleContact.sbr Debug.win32\b2ChainAndPolygonContact.sbr Debug.win32\b2CircleContact.sbr Debug.win32\b2Contact.sbr Debug.win32\b2ContactSolver.sbr Debug.win32\b2EdgeAndCircleContact.sbr Debug.win32\b2EdgeAndPolygonContact.sbr Debug.win32\b2PolygonAndCircleContact.sbr Debug.win32\b2PolygonContact.sbr Debug.win32\b2DistanceJoint.sbr Debug.win32\b2FrictionJoint.sbr Debug.win32\b2GearJoint.sbr Debug.win32\b2Joint.sbr Debug.win32\b2MouseJoint.sbr Debug.win32\b2PrismaticJoint.sbr Debug.win32\b2PulleyJoint.sbr Debug.win32\b2RevoluteJoint.sbr Debug.win32\b2RopeJoint.sbr Debug.win32\b2WeldJoint.sbr Debug.win32\b2WheelJoint.sbr Debug.win32\b2Rope.sbr
+     1>已完成生成项目“E:\RockSky\external\Box2D\proj.win32\Box2D.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.37
