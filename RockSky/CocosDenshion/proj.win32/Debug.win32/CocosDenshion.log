@@ -1,0 +1,20 @@
+﻿生成启动时间为 2014/10/19 22:27:49。
+     1>项目“E:\RockSky\CocosDenshion\proj.win32\CocosDenshion.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include" /I..\Include /IE:\RockSky\CocosDenshion\proj.win32\..\..\cocos2dx /IE:\RockSky\CocosDenshion\proj.win32\..\..\cocos2dx\include /IE:\RockSky\CocosDenshion\proj.win32\..\..\cocos2dx\kazmath\include /IE:\RockSky\CocosDenshion\proj.win32\..\..\cocos2dx\platform\win32 /IE:\RockSky\CocosDenshion\proj.win32\..\..\cocos2dx\platform\third_party\win32\OGLES /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D COCOSDENSHIONWIN32_EXPORTS /D _EXPORT_DLL_ /D _USING_V110_SDK71_ /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /FR"Debug.win32\\" /Gd /TP /wd4251 /analyze- /errorReport:prompt ..\win32\MciPlayer.cpp ..\win32\SimpleAudioEngine.cpp
+         SimpleAudioEngine.cpp
+         MciPlayer.cpp
+         正在生成代码...
+       Link:
+         E:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libCocosDenshion.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:E:\RockSky\projects\RockSky\proj.win32\Debug.win32\ winmm.lib libcocos2d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libCocosDenshion.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libCocosDenshion.lib" /MACHINE:X86 /SAFESEH /DLL Debug.win32\MciPlayer.obj
+         Debug.win32\SimpleAudioEngine.obj
+     1>MciPlayer.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+            正在创建库 E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libCocosDenshion.lib 和对象 E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libCocosDenshion.exp
+         CocosDenshion.vcxproj -> E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libCocosDenshion.dll
+       BscMake:
+         E:\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"E:\RockSky\projects\RockSky\proj.win32\Debug.win32\libCocosDenshion.bsc" /n Debug.win32\MciPlayer.sbr Debug.win32\SimpleAudioEngine.sbr
+     1>已完成生成项目“E:\RockSky\CocosDenshion\proj.win32\CocosDenshion.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.12
